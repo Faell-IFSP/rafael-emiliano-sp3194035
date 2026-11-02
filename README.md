@@ -1,6 +1,7 @@
 # Mercado Viva — supermercado acadêmico em Python
 
 Projeto completo para Laboratório de Programação 1, com MVC, MPA, Flask/Jinja2, ORM SQLAlchemy e PostgreSQL na Vercel. Professor: Celso Gonsalez Saes.
+Aluno: Rafael Gomes Emiliano
 
 ## Comece aqui
 
